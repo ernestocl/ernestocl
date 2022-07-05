@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ernesto Colás Lamuza @ernestocl   
+- 👀 I’m interested in Data Science + Digital Transformation + Process Improvement
+- 🌱 I’m currently learning Data Science.
+- 💞️ I’m looking to collaborate on projets related to my interests.
+- 📫 How to reach me on Linkedin: https://www.linkedin.com/in/ernestocolas/ OR  ernesto.colas@hotmail.com
