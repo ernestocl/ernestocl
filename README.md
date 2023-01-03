@@ -6,8 +6,8 @@
     - 🔹Process Improvement.
 
 - 🖥️ I'm looking for projects in all these fields.
-- 🌱 I continue improving my project manager skills
-- 💞️ I love to LEARN.
+- 🌱 I continue improving my digital/tecnology skills
+- 💞️ I love to LEARN and IMPLEMENT.
 - 📫 You can reach me: ernesto.colas@hotmail.com
 - 📱  You can reach me: +34 685185202
 
