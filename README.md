@@ -15,7 +15,6 @@
 
 ## 🏆 My GitHub Stats:
 
-<p align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestocl&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestocl&theme=tokyonight)
 
