@@ -9,6 +9,12 @@
 - 📫 You can reach me: ernesto.colas@hotmail.com
 - 📱  You can reach me: +34 685185202
 
+![](https://visitor-badge.laobi.icu/badge?page_id=ernestocl.ernestocl)
+[![Github](https://img.shields.io/github/followers/ernestocl?label=Follow&style=social)](https://github.com/ernestocl)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ernestocl&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ernestocl&theme=tokyonight)
 
 
 ## ✉️ Find me on:
@@ -22,6 +28,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="80" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r" height="80" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupiter-notebook" height="80" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="scikit-learn" height="80" style="vertical-align:top; margin:4px">
