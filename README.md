@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ernesto 😃
 - I can help you managing your most important projects🎯:
     - 🔹Data Science and Data Analytics, specifically projects in Python for Business Intelligence, Machine and Deep Learning.
-    - 🔹Digital transformation, always with the customer at the center and transforming from the core (business model) outwards.
-    - 🔹New technologies such as IoT, Industry 4.0, digital twins, software of various kinds, IT in general.
-    - 🔹Process Improvement.
+    - 🔹New technologies such as IoT, Industry 4.0, digital twins etc
 
 - 🖥️ I'm looking for projects in all these fields.
 - 🌱 I continue improving my digital/tecnology skills
