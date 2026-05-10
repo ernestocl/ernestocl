@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Ernesto 😃
 - I can help you managing your most important projects🎯:
-    - 🔹Data Science and Data Analytics, specifically projects in Python for Business Intelligence, Machine and Deep Learning.
-    - 🔹New technologies such as IoT, Industry 4.0, digital twins etc
+    - 🔹 Digital transformation programs, strategy and roadmaps.
+    - 🔹 Data Science and Data Analytics, specifically projects in Python for Business Intelligence.
+    - 🔹 New technologies such as IoT, Industry 4.0, digital twins etc
 
 - 🖥️ I'm looking for projects in all these fields.
 - 🌱 I continue improving my digital/tecnology skills
 - 💞️ My added value is the ability to identify business insights to predict results.
-- 📫 You can reach me: ernesto.colas@hotmail.com
-- 📱  You can reach me: +34 685185202
+- 📫 You can reach me at: ernesto.colas@hotmail.com
+- 📱  You can reach me at: +34 685.18.5202
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=ernestocl.ernestocl)
 [![Github](https://img.shields.io/github/followers/ernestocl?label=Follow&style=social)](https://github.com/ernestocl)
